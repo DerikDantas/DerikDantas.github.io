@@ -20,7 +20,7 @@ function Projetos() {
                     <img className="logo-1" alt="CBS Energia" src={logoCBS} />
                 </div>
                 <div className="col-md-6" data-aos="fade-left" data-aos-once="true" data-aos-duration="1000">
-                    <img className="logo-2" alt="Lework" src="https://i0.wp.com/lwk.com.br/wp-content/uploads/2018/04/logo-short-2.png" />
+                    <img className="logo-2" alt="Lework" src="https://i0.wp.com/lwk.com.br/wp-content/uploads/2020/08/logo-lwk.png" />
                 </div>
             </div>
 

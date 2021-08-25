@@ -74,10 +74,10 @@ function Skills() {
                         <img src={JAVA} alt="..." />
                         <h3>JAVA</h3>
                     </div>
-                    <div className="box-icon">
+                    {/* <div className="box-icon">
                         <img src={TS} alt="..." />
                         <h3>TYPESCRIPT</h3>
-                    </div>
+                    </div> */}
                 </div>
 
                 <h2 style={{marginTop: "120px"}} ata-aos="fade-right" data-aos-once="true" data-aos-duration="800">OUTRAS SKILLS:</h2>
@@ -86,10 +86,10 @@ function Skills() {
                         <img src={FLUTTER} alt="..." />
                         <h3>FLUTTER</h3>
                     </div>
-                    <div className="box-icon">
+                    {/* <div className="box-icon">
                         <img src={PYTHON} alt="..." />
                         <h3>PYTHON</h3>
-                    </div>
+                    </div> */}
                     <div className="box-icon">
                         <img src={SQL} alt="..." />
                         <h3>MySQL</h3>

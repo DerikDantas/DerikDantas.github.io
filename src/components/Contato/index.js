@@ -38,7 +38,7 @@ export default class Contato extends Component {
             <Container id="contato">
                 <div className="container container-contato">
                     <div className="box-titulo" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000">
-                        <h1>Contato</h1>
+                        <h1>CONTATO</h1>
                     </div>
 
                     <div className="form-contato">
