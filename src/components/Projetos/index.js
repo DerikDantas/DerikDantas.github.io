@@ -14,13 +14,20 @@ function Projetos() {
 
             <img src={Separator} alt="..." className="separator " />
 
-            <div className="row">
-
+            <div className="row my-5">
                 <div className="col-md-6" data-aos="fade-right" data-aos-once="true" data-aos-duration="1000">
                     <img className="logo-1" alt="CBS Energia" src={logoCBS} />
                 </div>
                 <div className="col-md-6" data-aos="fade-left" data-aos-once="true" data-aos-duration="1000">
                     <img className="logo-2" alt="Lework" src="https://i0.wp.com/lwk.com.br/wp-content/uploads/2020/08/logo-lwk.png" />
+                </div>
+            </div>
+            <div className="row my-4">
+                <div className="col-md-6 d-flex justify-content-center" data-aos="fade-left" data-aos-once="true" data-aos-duration="1000">
+                    <img className="w-25" alt="Marry Perry Paris" src="https://www.marryperryparis.com.br/assets/wp-content/uploads/2020/04/logo-vertical.png" />
+                </div>
+                <div className="col-md-6 d-flex justify-content-center" data-aos="fade-left" data-aos-once="true" data-aos-duration="1000">
+                    <img className="w-25" alt="T10 Bank" src="https://t10bankprodstorage.blob.core.windows.net/t10home/ART_T10Bank_Coral.png" />
                 </div>
             </div>
 

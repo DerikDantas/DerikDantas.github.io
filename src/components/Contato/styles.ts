@@ -87,10 +87,11 @@ export const Container = styled.div`
         
         .container-contato{
             .box-titulo{
-                width: 60%
+                width: auto;
+                padding: 0 5px;
             }
             h1{
-                font-size: 40px;
+                font-size: 30px;
             }
         }
 

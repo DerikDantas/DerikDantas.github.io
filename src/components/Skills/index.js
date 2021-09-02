@@ -11,9 +11,7 @@ import STYLED from '../../assets/Icons/styled-components.png'
 import GIT from '../../assets/Icons/git.png'
 import WP from '../../assets/Icons/wp.png'
 import JAVA from '../../assets/Icons/java.png'
-import TS from '../../assets/Icons/ts.png'
 import FLUTTER from '../../assets/Icons/flutter.png'
-import PYTHON from '../../assets/Icons/python.png'
 import SQL from '../../assets/Icons/mysql.png'
 
 
