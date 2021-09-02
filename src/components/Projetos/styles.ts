@@ -5,7 +5,8 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: auto;
+    margin: 50px;
 
     p{
         text-align: center;
@@ -14,7 +15,6 @@ export const Container = styled.div`
 
     a{
         color: ${({ theme }) => theme.text};
-        text-decoration: none;
 
         &:hover{
             text-decoration: underline;
